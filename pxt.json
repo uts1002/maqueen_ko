@@ -3,6 +3,12 @@
   "version": "1.7.15",
   "description": "DFRobot 마퀸 로봇을 위한 한글 확장 블록입니다.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uts1002/maqueen_ko"
+  },
+  "homepage": "https://github.com/uts1002/maqueen_ko",
+  "icon": "./icon.png",
   "dependencies": {
     "core": "*",
     "ir": "github:dfrobot/pxt-dfrobot_newir#v0.0.2"
