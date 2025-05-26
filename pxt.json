@@ -1,7 +1,7 @@
 {
-    "name": "maqueen",
+    "name": "maqueen-ko",
     "version": "1.7.15",
-    "description": "Affordable mini robot designed by DFRobot",
+    "description": "DFRobot 마퀸 로봇을 위한 한글 확장 블록입니다.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
